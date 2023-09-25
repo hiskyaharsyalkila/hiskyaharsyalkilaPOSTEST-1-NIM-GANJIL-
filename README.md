@@ -52,3 +52,7 @@ A brief description of what this project does and who it's for
 
     print("-"*36)
     print("Program Berakhir")
+
+<img width="257" alt="hasil pos tes" src="https://github.com/hiskyaharsyalkila/hiskyaharsyalkilaPOSTEST-1-NIM-GANJIL-/assets/144862428/5fb50065-211c-4815-8dcf-9c875423891b">
+
+![nilai tukar rupiah drawio](https://github.com/hiskyaharsyalkila/hiskyaharsyalkilaPOSTEST-1-NIM-GANJIL-/assets/144862428/cca4af78-fd93-4923-a24b-34262499775f)
